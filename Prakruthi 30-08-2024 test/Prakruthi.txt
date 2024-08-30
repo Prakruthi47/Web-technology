@@ -1,0 +1,26 @@
+1.Explain polymorphism with an example.
+	 Polymorphism is an object behaving differently at a given instance of time.polymorphism is achieved with the help of inheritance.
+two types of polymorhism.
+a)compile-time polymorphism-- is achieved using method overloading
+b)runtime polymorphism --- is achieved using method overriding
+
+2.Explain Constructor Chaining with example.
+	Constructor Chaining is declaring two or more constructor with different parameters in a same class . 
+that is default constructor and parameterized constructor.
+	
+
+3.Explain inheritance with an example.
+	Inheritance is a process of acquiring the properties by one class from another class.
+inheritance is achieved using "extends" keyword. Inheritance is also called "is a relationship."
+
+4.Explain Encapsulation withan example.
+	Encapsulation is a process of grouping  into a single block or unit.
+To achieve encapsulation followig steps to be followed:
+- private data members
+- public getter and setter methods
+- default constructor
+- public class
+
+
+
+                                                                                                        
